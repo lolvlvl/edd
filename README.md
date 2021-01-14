@@ -33,7 +33,8 @@ There are few best practices that will help you to feel better and build softwar
   unacceptable to depend on the code written by your colleague. You know who knows best. You!
   Code written by a teammate is not only obscure and hard to empathize, but also is not clever enough. Maybe it was a
   mistake to hire that guy in the first place. Rewriting the code for aesthetics reason grants a great feeling of
-  supremacy and helps your mojo to grow.
+  supremacy and helps your mojo to grow. If rewriting is not feasible, at least you can revert some changes made 
+  by your colleagues, most of those changes are not adequate anyway.
 * Take every opportunity to replace the code. If you discovered a bug, or have a security concern in a 3rd party
   library, remove/replace that library. It does not make sense to contribute the fix, because it is too much of a burden
   with no guarantee that maintainer(s) will accept the change without asking a bunch of toxic questions. Even raising an
