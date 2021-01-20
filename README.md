@@ -39,7 +39,7 @@ There are few best practices that will help you to feel better and build softwar
   library, remove/replace that library. It does not make sense to contribute the fix, because it is too much of a burden
   with no guarantee that maintainer(s) will accept the change without asking a bunch of toxic questions. Even raising an
   issue might be not a great option, removing the code altogether is the safest bet.
-* Avoid finishing projects. When the project is done and supposedly ready to serve, the outer environment might be too
+* [Avoid finishing projects](https://en.wikipedia.org/wiki/Brood_parasite). When the project is done and supposedly ready to serve, the outer environment might be too
   harsh to the baby. The load can be too high, the edge cases can be too edgy and consumers can be just too demanding.
   All those things contribute to the unhappiness of a developer. The best strategy is to close projects just before they
   are finished or to delegate them to some other people. There is no doubt, other people will be excited to finish the
